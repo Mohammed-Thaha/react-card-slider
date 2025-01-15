@@ -9,12 +9,6 @@ A visually appealing and fully responsive card slider component built using Reac
 - **Smooth Animations**: Provides a fluid and engaging user experience.
 - **Reusable Component**: Can be integrated into any React project.
 
-## Demo
-
-Include a link to a live demo or a GIF showing the functionality if possible.
-
-[Live Demo](#) _(replace # with your deployed link)_
-
 ## Installation
 
 To use this project locally, follow these steps:
@@ -23,3 +17,9 @@ To use this project locally, follow these steps:
    ```bash
    git clone https://github.com/username/react-card-slider.git
    cd react-card-slider
+2. Install Dependency
+    ```bash
+        npm install
+3. Run the development server
+   ```bash
+        npm run dev
