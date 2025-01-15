@@ -15,7 +15,7 @@ To use this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/react-card-slider.git
+   git clone https://github.com/Mohammed-Thaha/react-card-slider.git
    cd react-card-slider
 2. Install Dependency
     ```bash
